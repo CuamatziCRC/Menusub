@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu&amp;sub</string>
+    <string name="item_1">Item 1</string>
+    <string name="subitem_2" />
+    <string name="subitem_1" />
+    <string name="item_2">Item 2</string>
+    <string name="item_3">Item 3</string>
+    <string name="uso_de_menu_y_submenus">Uso de menu y submenus</string>
+</resources>
